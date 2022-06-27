@@ -1,0 +1,1 @@
+{"mixinTypes":[],"builders":{"configs":{},"default":"maven"},"runners":{"configs":{"project:/MinecraftServer":{"ram":1000,"variables":{"configurationType":"java"},"options":{}}},"default":"project:/MinecraftServer"},"description":"{\"factoryId\":\"1cbe19zpk3oa3ky8\"}","type":"maven","attributes":{"languageVersion":["1.6"],"language":["java"]}}
